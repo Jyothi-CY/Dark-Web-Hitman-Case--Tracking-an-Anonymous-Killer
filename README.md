@@ -1,7 +1,7 @@
 # **DF Project - Dark Web Hitman – Tracking an Anonymous Killer**
 
 ## **Team Members:**
-- **N. Jyothirmayee Shiva Gayatri** (2022BCY0024)
+- **N. Jyothirmayee Siva Gayatri** (2022BCY0024)
 - **P. Sasya** (2022BCY0022)
 
 ## **Problem Statement:**
