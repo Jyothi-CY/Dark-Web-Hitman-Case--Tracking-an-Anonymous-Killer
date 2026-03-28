@@ -152,24 +152,24 @@ The forensic investigation provides substantial digital evidence linking the sus
 
 ---
 ### **1. Digital Forensics & Incident Response (DFIR)**
-*   **Why it fits:** The core of your project involved systematic evidence acquisition, analysis, and timeline reconstruction from a disk image to investigate a criminal incident.
-*   **Detail to add:** "Conducted end-to-end DFIR, including evidence acquisition (disk imaging), artifact analysis (browser history, registry, filesystem), and timeline reconstruction to support a criminal investigation."
+*   The core of the project involved systematic evidence acquisition, analysis, and timeline reconstruction from a disk image to investigate a criminal incident.
+*   Conducted end-to-end DFIR, including evidence acquisition (disk imaging), artifact analysis (browser history, registry, filesystem), and timeline reconstruction to support a criminal investigation.
 
 ### **2. Dark Web & Anonymity Network Investigation**
-*   **Why it fits:** You specifically investigated activity on the Tor network, identified .onion services, and understood how suspects use anonymity tools.
-*   **Detail to add:** "Experienced in investigating dark web activity, including Tor browser forensics, analysis of .onion service access, and tracing attempts at anonymity using VPNs and encrypted communications."
+*   Especifically investigated activity on the Tor network, identified .onion services, and understood how suspects use anonymity tools.
+*   Experienced in investigating dark web activity, including Tor browser forensics, analysis of .onion service access, and tracing attempts at anonymity using VPNs and encrypted communications.
 
 ### **3. Cryptocurrency Transaction Analysis**
-*   **Why it fits:** You traced Bitcoin payments, identified wallet addresses, and linked financial transactions to criminal intent, which is a critical sub-skill in modern cybercrime investigations.
-*   **Detail to add:** "Performed cryptocurrency transaction analysis, tracing Bitcoin payments across wallets to establish financial links in criminal conspiracy cases."
+*   Traced Bitcoin payments, identified wallet addresses, and linked financial transactions to criminal intent, which is a critical sub-skill in modern cybercrime investigations.
+*   Performed cryptocurrency transaction analysis, tracing Bitcoin payments across wallets to establish financial links in criminal conspiracy cases.
 
 ### **4. Forensic Analysis of Encrypted & Obfuscated Data**
-*   **Why it fits:** You dealt with encrypted communications (ProtonMail), encrypted storage (VeraCrypt), and obfuscation techniques (coded language, secure deletion tools).
-*   **Detail to add:** "Analyzed encrypted communications and storage artifacts, identifying cryptographic containers and recovering evidence from obfuscated user activities."
+*   Dealt with encrypted communications (ProtonMail), encrypted storage (VeraCrypt), and obfuscation techniques (coded language, secure deletion tools).
+*   Analyzed encrypted communications and storage artifacts, identifying cryptographic containers and recovering evidence from obfuscated user activities.
 
 ### **5. Multi-Source Evidence Correlation & Timeline Analysis**
-*   **Why it fits:** You didn't rely on one data source; you correlated browser history, email metadata, file system timestamps, application logs, and network artifacts to build a cohesive narrative.
-*   **Detail to add:** "Expert in correlating evidence from multiple digital sources (browsers, email, filesystem, memory) to construct comprehensive attack timelines and behavioral profiles."
+*   Didn't rely on one data source; but correlated browser history, email metadata, file system timestamps, application logs, and network artifacts to build a cohesive narrative.
+*   Expert in correlating evidence from multiple digital sources (browsers, email, filesystem, memory) to construct comprehensive attack timelines and behavioral profiles.
 
 ### **Recommendations:**
 1. **Legal Action**: Use extracted evidence for prosecution.
