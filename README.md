@@ -170,7 +170,7 @@ The forensic investigation provides substantial digital evidence linking the sus
 ### **5. Multi-Source Evidence Correlation & Timeline Analysis**
 *   Didn't rely on one data source; but correlated browser history, email metadata, file system timestamps, application logs, and network artifacts to build a cohesive narrative.
 *   Expert in correlating evidence from multiple digital sources (browsers, email, filesystem, memory) to construct comprehensive attack timelines and behavioral profiles.
-
+---
 ### **Recommendations:**
 1. **Legal Action**: Use extracted evidence for prosecution.
 2. **Further Investigation**: Trace Bitcoin transactions on the blockchain.
