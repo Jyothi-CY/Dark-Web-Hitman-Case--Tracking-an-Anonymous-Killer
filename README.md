@@ -1,11 +1,8 @@
 # **DF Project - Dark Web Hitman – Tracking an Anonymous Killer**
 
----
-
 ## **Team Members:**
 - **N. Jyothirmayee Shiva Gayatri** (2022BCY0024)
 - **P. Sasya** (2022BCY0022)
----
 
 ## **Problem Statement:**
 A law enforcement agency intercepted a murder-for-hire plot on the dark web. A suspect was arrested but claims to have been framed. The forensic team must investigate the suspect’s desktop and mobile devices to find evidence of dark web access, cryptocurrency payments, or emails linked to the hitman contract.
@@ -16,8 +13,6 @@ The primary objectives of the investigation are to:
 3. Trace cryptocurrency transactions linked to the contract.
 4. Uncover attempts to conceal or destroy digital evidence.
 5. Establish a timeline of events and gather digital evidence for prosecution.
-
----
 
 ## **Summary of Investigation:**
 
@@ -59,8 +54,6 @@ The investigation involved a detailed forensic analysis of the suspect’s (Henr
    - `payment_details.txt` (hitman’s Bitcoin wallet address).
    - `address.txt` (saved victim’s address).
 
----
-
 ## **Forensic Process & Methodology:**
 
 ### **1. Evidence Acquisition:**
@@ -96,8 +89,6 @@ The investigation involved a detailed forensic analysis of the suspect’s (Henr
 - Compiled findings into a forensic report with supporting artifacts.
 - Answered 20+ investigative questions based on extracted evidence.
 
----
-
 ## **Tools & Technologies Used:**
 
 ### **Forensic Tools:**
@@ -121,8 +112,6 @@ The investigation involved a detailed forensic analysis of the suspect’s (Henr
 - **Geolocation Mapping**: Using Google Maps queries.
 - **Timeline Analysis**: Cross-referencing multiple artifact timestamps.
 - **Data Carving**: Recovering deleted images from unallocated space.
-
----
 
 ## **Tech Stack:**
 
@@ -157,12 +146,9 @@ AXIOM Process, Tor Browser Forensics, Bitcoin/Cryptocurrency Analysis, ProtonMai
 - Attempts to erase digital traces using CCleaner.
 - Post-crime searches for news about the murder.
 
----
-
 ## **Conclusion:**
 
 The forensic investigation provides substantial digital evidence linking the suspect, Henry, to a murder-for-hire plot. Evidence includes dark web access, encrypted communication with a hitman, Bitcoin payments for the contract, and attempts to conceal digital traces. The suspect’s claims of being framed are contradicted by the comprehensive digital trail.
-
 
 ---
 ### **1. Digital Forensics & Incident Response (DFIR)**
@@ -185,14 +171,12 @@ The forensic investigation provides substantial digital evidence linking the sus
 *   **Why it fits:** You didn't rely on one data source; you correlated browser history, email metadata, file system timestamps, application logs, and network artifacts to build a cohesive narrative.
 *   **Detail to add:** "Expert in correlating evidence from multiple digital sources (browsers, email, filesystem, memory) to construct comprehensive attack timelines and behavioral profiles."
 
----
 ### **Recommendations:**
 1. **Legal Action**: Use extracted evidence for prosecution.
 2. **Further Investigation**: Trace Bitcoin transactions on the blockchain.
 3. **Collaboration**: Work with ProtonMail and VPN providers for additional logs.
 4. **Suspect Monitoring**: Monitor for further evasion attempts.
 
----
 
 ## **References:**
 - Case Number: `case01`
@@ -200,14 +184,9 @@ The forensic investigation provides substantial digital evidence linking the sus
 - Report Generated: Tuesday, April 8, 2025
 - Forensic Software: AXIOM Process v9.0.0.43519
 
----
-
 ## **Appendices:**
 - Full timeline of events.
 - List of all Tor bookmarks and visited URLs.
 - Email headers and attachments.
 - Screenshots of key evidence.
 
----
-
-**End of Report**
